@@ -11,7 +11,7 @@ Caso as regras não sejam seguidas, uma mensagem de erro em vermelho é exibida,
 
 Este projeto foi inteiramente desenvolvido por mim como parte de um trabalho acadêmico.
 
-### 👨‍💻 Autora
+## Autora
 
 Para mais informações, sinta-se à vontade para entrar em contato:
 
